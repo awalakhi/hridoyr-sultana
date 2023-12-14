@@ -1,0 +1,27 @@
+.nav-continer{
+    max-width: 800px;
+    margin: 0 auto;
+    /* background-color:rgb(209, 235, 166); */
+
+}
+.brith{
+    max-width: 1200px;
+    background-image: url(../images/al.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    border-radius: 10px;
+    
+}
+.brith img{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    /* padding-left: 500px; */
+    /* position: relative; */
+    /* left: 300px; */
+}
+.brith h5{
+    width: 200px;
+    position: relative;
+    left: 20px;
+}
