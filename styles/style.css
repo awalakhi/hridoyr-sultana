@@ -10,6 +10,8 @@
     background-repeat: no-repeat;
     background-position: right;
     border-radius: 10px;
+    /* width: 900px;
+    height: 400px; */
     
 }
 .brith img{
@@ -22,6 +24,6 @@
 }
 .brith h5{
     width: 200px;
-    position: relative;
+    position:relative;
     left: 20px;
 }
