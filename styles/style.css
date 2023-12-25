@@ -26,4 +26,9 @@
     width: 200px;
     position:relative;
     left: 20px;
+    background-color: bisque;
+    color:purple;
+}
+p{
+    color: blue;
 }
