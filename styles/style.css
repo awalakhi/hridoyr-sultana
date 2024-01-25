@@ -8,10 +8,12 @@
     max-width: 1200px;
     background-image: url(../images/al.jpg);
     background-repeat: no-repeat;
-    background-position: right;
+    background-position:center;
+    background-size: cover;
     border-radius: 10px;
-    /* width: 900px;
-    height: 400px; */
+    width:80%;
+    height:100vh;
+
     
 }
 .brith img{
